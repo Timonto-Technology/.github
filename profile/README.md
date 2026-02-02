@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="image.png" alt="Timonto Tech Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/Timonto-Technology/.github/main/profile/abstract-doodle-art-pattern-doodle-wallpaper-vecto-vector.jpg" alt="Timonto Tech Banner" width="800"/>
 </p>
+
 
 ---
 
