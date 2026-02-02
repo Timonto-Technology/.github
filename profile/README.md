@@ -4,7 +4,8 @@
 
 ---
 
-# Timonto Technology
+<h1 align="center"><code>TIMONTO TECHNOLOGY</code></h1>
+
 
 ## Timonto Tech. nedir?
 
